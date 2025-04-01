@@ -1,3 +1,10 @@
+Felipe Cruz Pineda, Angie Vargas- M6A
+# Clase Introductoria (Transformada de Laplace)
+El presente resumen está dividido en dos partes, lo cual brinda un panorama general del curso de Dinámica de sistemas.
+
+En primer lugar, se abordan conceptos básicos necesarios para el curso. Dando una explicación de conceptos que se utilizarán más adelante, lo cual nos da un parámetro general acerca de lo que tratará el curso.
+
+Por otro lado, la segunda parte se centra en hacer un repaso de la transformada de Laplace, un tema clave para aplicar más adelante a los conceptos y temas que siguen en el curso.
 X”+4X=5   X(0)=5  X’(0)=0 
 S^2X(S)-SX(0)-X’(0)+4(SX(S)-X’(0))=5/S
 S^2X(S)+4X(S)-5S=5/S
